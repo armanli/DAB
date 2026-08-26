@@ -1,0 +1,25 @@
+LICENÇA DE SOFTWARE PROPRIETÁRIO E EULA
+
+Copyright (c) Guilherme Santana Pessa
+Todos os direitos reservados.
+
+Este documento estabelece os termos e condições (End User License Agreement - EULA) para a utilização deste software. Ao fazer o download, instalar, acessar ou utilizar este software, você concorda expressamente com todos os termos descritos abaixo.
+
+1. CONCESSÃO DE LICENÇA
+É concedida ao usuário final uma licença de uso restrita, estritamente pessoal, intransferível e não exclusiva. Este software é licenciado, não vendido.
+
+2. RESTRIÇÕES ABSOLUTAS
+Fica expressamente proibido, salvo mediante prévia e expressa autorização formal e por escrito do detentor dos direitos autorais:
+Modificação: Alterar, adaptar, traduzir ou modificar o código-fonte, interface ou qualquer componente estrutural do software.
+Engenharia Reversa: Descompilar, desmontar, decodificar, realizar engenharia reversa ou tentar extrair o código-fonte por qualquer meio técnico.
+Distribuição: Redistribuir, comercializar, alugar, sublicenciar, emprestar ou disponibilizar o software (ou partes dele) a terceiros sob qualquer canal.
+
+3. CONDIÇÃO PARA OBRAS DERIVADAS AUTORIZADAS (PROTEÇÃO CONTÍNUA)
+Na eventualidade de ser concedida autorização excepcional para modificação, qualquer obra derivada resultante deverá, obrigatoriamente, ser licenciada sob estes mesmos termos e condições restritivas, impedindo a apropriação ou distribuição por terceiros.
+
+4. ATRIBUIÇÃO DE AUTORIA E PROPRIEDADE INTELECTUAL
+O software, suas interfaces, arquitetura e lógicas de funcionamento constituem propriedade intelectual exclusiva do autor original (protegidos pelas Leis nº 9.609/98 e nº 9.610/98 e legislações de patentes aplicáveis). 
+Todos os avisos de direitos autorais e menções de autoria originais devem ser mantidos intactos** e inalterados no código-fonte e nas interfaces do produto.
+
+5. RESPONSABILIDADE E GARANTIAS
+O desenvolvedor responde pelo funcionamento do software de acordo com as especificações técnicas declaradas. Não há isenção total de responsabilidade por falhas, perdas ou danos que sejam decorrentes de defeitos comprovados de concepção ou funcionamento do sistema. A responsabilização será apurada e tratada nos limites e diretrizes estabelecidos pela legislação brasileira vigente (incluindo o Código de Defesa do Consumidor, quando aplicável à relação).
